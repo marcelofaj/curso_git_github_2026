@@ -1,4 +1,4 @@
-\# Curso TMW - Git \& GitHub 2026
+# Curso TMW - Git \& GitHub 2026
 
 Curso para iniciantes que iniciei para aprender a trabalhar com versionamento de código e repositórios com GitHub.
 
